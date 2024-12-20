@@ -18,7 +18,7 @@ public class DatosApiDraft {
     private  double costoCarta;
 
     public DatosApiDraft(){
-
+ 
     }
     public DatosApiDraft(String nombreJugador, String equipoActual, double costoCarta) {
         this.nombreJugador = nombreJugador;
