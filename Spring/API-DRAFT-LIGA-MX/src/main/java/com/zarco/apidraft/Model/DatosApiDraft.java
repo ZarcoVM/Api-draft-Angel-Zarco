@@ -6,7 +6,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jdk.jfr.Enabled;
-
+ 
 @Entity
 public class DatosApiDraft {
     //Definir los atributos, en este caso que seran los campos en la tabla
