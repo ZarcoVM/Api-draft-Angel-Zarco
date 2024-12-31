@@ -3,7 +3,7 @@ import Formulario from './components/Formulario';
 
 const App = () => { 
     return (
-        <div>
+        <div> 
             <Formulario />
         </div>
     );
