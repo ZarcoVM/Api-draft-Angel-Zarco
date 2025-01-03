@@ -7,7 +7,7 @@ const App = () => {
             <Formulario />  
         </div>
     );
-};
+}; 
 
 export default App;
  
