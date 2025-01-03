@@ -4,7 +4,7 @@ import Formulario from './components/Formulario';
 const App = () => {   
     return (   
         <div>  
-            <Formulario /> 
+            <Formulario />  
         </div>
     );
 };
