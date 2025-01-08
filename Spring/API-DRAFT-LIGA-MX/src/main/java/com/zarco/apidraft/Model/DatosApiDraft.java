@@ -14,7 +14,7 @@ public class DatosApiDraft {
     @GeneratedValue(strategy = GenerationType.IDENTITY) //Es autoincrementable
     private long id;
     private  String nombreJugador;
-    private String equipoActual;
+    private String equipoActual; 
     private  double costoCarta;
  
     public DatosApiDraft(){  
