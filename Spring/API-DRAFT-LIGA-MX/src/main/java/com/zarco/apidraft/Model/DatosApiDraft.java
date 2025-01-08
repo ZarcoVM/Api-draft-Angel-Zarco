@@ -1,4 +1,4 @@
-  package com.zarco.apidraft.Model;     
+  package com.zarco.apidraft.Model;      
 //JPA utiliza esta clase para convertirla en una tabla de BD  
    
 import jakarta.persistence.Entity;
