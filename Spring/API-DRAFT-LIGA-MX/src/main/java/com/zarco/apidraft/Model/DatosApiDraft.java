@@ -17,7 +17,7 @@ public class DatosApiDraft {
     private String equipoActual;
     private  double costoCarta;
  
-    public DatosApiDraft(){ 
+    public DatosApiDraft(){  
  
     }
     public DatosApiDraft(String nombreJugador, String equipoActual, double costoCarta) {
